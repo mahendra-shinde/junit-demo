@@ -1,3 +1,6 @@
-target\
-bin\
-classes\
+target/
+bin/
+classes/
+.project
+.settings
+.classpath
